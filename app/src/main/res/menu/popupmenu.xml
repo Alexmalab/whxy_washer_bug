@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/djx"
+         android:title="大件洗"></item>
+    <item
+        android:id="@+id/ksx"
+        android:title="快速洗"></item>
+    <item android:id="@+id/dts"
+        android:title="单脱水"></item>
+    <item
+        android:id="@+id/bzx"
+        android:title="标准洗"></item>
+    <item android:id="@+id/qrh"
+        android:title="轻柔烘"></item>
+    <item
+        android:id="@+id/bzh"
+        android:title="标准烘"></item>
+    <item android:id="@+id/lgh"
+        android:title="晾干烘"></item>
+    <item
+        android:id="@+id/qlh"
+        android:title="强力烘"></item>
+
+</menu>
