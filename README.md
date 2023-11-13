@@ -1,4 +1,3 @@
 # whxy_washer_bug
 
-this is a simple android application which shows the 
-bugs of washer machine system in Wuhan College
+this is a simple android application which u can abuse the  washer machine system in Wuhan College
